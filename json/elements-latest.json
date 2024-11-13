@@ -1,0 +1,700 @@
+[
+    {
+        "type": "Image",
+        "element_id": "df79fa92715475e38b3320154fa85207",
+        "text": "PAST MEDICAL HISTORY ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5b038a6b03cdc06e1249c15d4713cd55",
+        "text": "Patient has a past medical history of Anxiety, Disease of thyroid gland, Migraine, Obstructive sleep apnea i Prediabetes.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b1e6b19cf5095d5cabd2845a5f3f51d9",
+        "text": "She has no past medical history of Angina pectoris (CMS/HCC), Arthritis, Asthma, Atrial fibrillation (CMS/HCC), Awareness under anesthesia, Basal cell carcinoma, Cancer (CMS/HCC), Chronic kidney disease, Chronic pain disorder, Chronic renal failure, COPD (chronic obstructive pulmonary disease) (CMS/HCC), Deep vein thrombosis (CMS/HCC), Delayed emergence from general anesthesia, Depression, Diabetes mellitus type I (CMS/HCC), Diabetic retinopathy (CMS/HCC), Dry eyes, Epilepsy (CMS/HCC), Eye trauma, GERD (gastroesophageal reflux disease), Glaucoma, Hard to intubate, Heart disease, Heart murmur, Hiatal hemia, HIV disease (CMS/HCC), Hypertension, Hypertensive retinopathy, Infectious viral hepatitis, Macular degeneration, Malignant hyperthermia, Melanoma (CMS/HCC), Mitral valve prolapse, Motion sickness, Myocardial infarction (CMS/HCC), Parkinson's disease (CMS/HCC), Peptic ulceration, PONV (postoperative nausea and vomiting), Pseudocholinesterase deficiency, attack), Tuberculosis, Type 2diabetes mellitus (CMS/HCC), or Valvular disease. PA S T",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "1083fd684b9dca3d352a08c1378dd0d5",
+        "text": "VACCINE HISTORY ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d96e57a98306a298b63ce159d1f12b4b",
+        "text": "1. Polio",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f3d784e36bdfc0c513844d02de07908f",
+        "text": "N O~ WN",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e018291d344a879cdaf991966c73e418",
+        "text": "2. Measles",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "f3d784e36bdfc0c513844d02de07908f",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "34e1ddec40b0371ddddc93a2c22feb0b",
+        "text": "3. ChickenPox",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "f3d784e36bdfc0c513844d02de07908f",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9a4f85196ee0881fa7e4a7ab413c487f",
+        "text": "4. COVID",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "f3d784e36bdfc0c513844d02de07908f",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "251accf5f5a65b22d4d2e850553015e1",
+        "text": "5. Tetnaus, Diphtheria",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "f3d784e36bdfc0c513844d02de07908f",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7d345ef2a20940706f7aacfc3d444994",
+        "text": "6. Flu Shot",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "f3d784e36bdfc0c513844d02de07908f",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "428762b81e99a13df27bc885a9dc3785",
+        "text": "7. Yellow Fever",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "f3d784e36bdfc0c513844d02de07908f",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "00e30e6d6cc56289ca2c602c1b0dbcc2",
+        "text": "8. Rabies",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "f3d784e36bdfc0c513844d02de07908f",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "fee956e06cae1466e2ad1f384d52ff85",
+        "text": "SURGICAL HISTORY ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a1cc57d6952d90eba8bf16566cc4b75c",
+        "text": "1. Pr explore parathyroid glands n/a. Procedure: neck exploration with parathyroidectomy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ad7c13e63d876f5f92b1076e4be72779",
+        "text": "2. Pr strabismus surg, two horiz muscle",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "5b633599cab89b7d034e672faf663cfb",
+        "text": "EE)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7adba53b444557ec7f50ff8815231a98",
+        "text": "3. Right Procedure: strabismus surgery, right eye, Ophthalmology",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "36478bc9dee3d62edbb9a77020367156",
+        "text": "4. Skin Graft: suffered burns and skin grafts from truck explosion",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f9b6ef1a10eb84c8c873922c831ffe20",
+        "text": "5. Tubal Ligation",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "d6bb7daab2f18dbfa402563d6f545fcb",
+        "text": "SOCIAL HISTORY ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8bf715f05c38e693bf493a538aa256fc",
+        "text": "SOCIAL HISTORY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "26706881af9c45cb8b73c68f538e8b21",
+        "text": "Reports that she has been smoking cigarettes. She has quit using smokeless tobacco. She reports current alconol use of about 3.0 standard drinks of alcohol per week. She reports that she does not use drugs.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "8bf715f05c38e693bf493a538aa256fc",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "b06ad18013edd24f0bf4c6e973b60716",
+        "text": "VITALS ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "49e6a9d11d985c302299da8df2ecd9d4",
+        "text": "Patient performed vitals:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7de69de7a73b068458a4232bb4f18364",
+        "text": "Patient performed vitals: There were no vitals filed for this visit.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4edd0f5217b4c09039cf6260221264ce",
+        "text": "There were no vitals filed for this visit.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "0359ab5e56e2417cb5ae830d01a8187b",
+        "text": "VIDEO EXAM VIA TELEMEDICINE ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "397d430d64cd4ff9af167c8b6982ea81",
+        "text": "1. General:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "aed09a4446b7f204698aea712bf24ef5",
+        "text": "WON",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9e7c438c528c5e065d26283de862caa6",
+        "text": "2. Eyes:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "aed09a4446b7f204698aea712bf24ef5",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b58d2fe8908b2e3e87cc58e756a597e0",
+        "text": "3. Cardiac:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "aed09a4446b7f204698aea712bf24ef5",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "99788dfc3e20a99dce3b9203172ce0ad",
+        "text": "well appearing. does not appear to be in acute distress.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "aed09a4446b7f204698aea712bf24ef5",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "682ee06398f2c2bb54b220c7fb44dc61",
+        "text": "Conjunctiva clear.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "aed09a4446b7f204698aea712bf24ef5",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5dbe1e156143383e98e320b165722155",
+        "text": "Well perfused skin, no flushing, none cyanosis noted",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "aed09a4446b7f204698aea712bf24ef5",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5a8ab3e0582e211e91030dd900e26407",
+        "text": "4. Pulmonary: Pulmonary effort regular, no distress. Speaking in full sentences without respiratory distress. Cough was not audible during the video visit.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "aed09a4446b7f204698aea712bf24ef5",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8936aa9e1142d84c487a6ee1da18f793",
+        "text": "alert and oriented times 3. Patient is answering questions appropriately",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "aed09a4446b7f204698aea712bf24ef5",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5d836117bfad0c2271d3855d6bb86a9b",
+        "text": "5. Neuro:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "aed09a4446b7f204698aea712bf24ef5",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "12adb9c940323a6950697adefb5805ba",
+        "text": "ASSESSMENT & PLAN ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2d8d028145222306905934abc6826a4d",
+        "text": "1. Generalized anxiety disorder (Primary) - LORazepam; TAKE 1 TO 2 TABLETS BY MOUTH EVERY 6 HOURS AS NEEDED -FOR ANXIETY Dispense: 30 tablet; Refill: 0",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7cfe55836c2f3c36a2a98600a7d84f43",
+        "text": "2. Hypothyroidism, unspecified type",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "99e2b1dac9adab9f686056d4f89a5849",
+        "text": "NoO",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b0efed3bd73bfc934066c475d7e9cef9",
+        "text": "3. Prediabetes.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "99e2b1dac9adab9f686056d4f89a5849",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d93b79ec18283b2bf52548ed158a086c",
+        "text": "4. Generalized anxiety disorder. Refill lorazepam.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "99e2b1dac9adab9f686056d4f89a5849",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c7c53ce8475a70c4dc257a099eff4b94",
+        "text": "5. Hypothyroid-continue levothyroxine",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "99e2b1dac9adab9f686056d4f89a5849",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "193ccee3fbc083d75389deb03ba2472f",
+        "text": "6. Prediabetes-check hemoglobin A1c",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "99e2b1dac9adab9f686056d4f89a5849",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "44fb4f8c431adfd843478eef9965a49b",
+        "text": "7. Medication(s) use, benefits, and side effects reviewed. If symptoms persist, make a folow up appointment. For worsening or new onset of symptoms, go to Urgent Care or Emergency room.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "99e2b1dac9adab9f686056d4f89a5849",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e16849ccc31e2504b515a16a413df0ef",
+        "text": "8. ER precautions advised. Patient verbalized understanding and is agreeable to plan of care. Patient's question(s) were answered",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "99e2b1dac9adab9f686056d4f89a5849",
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "6ef80499087b530957d93107d8f35fb1",
+        "text": "FOLLOW UP ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a099fd14454f0ee92e11d76021167dee",
+        "text": "No follow-ups on file.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "ebd2aaad090f209d42f43c3e914a1e61",
+        "text": "SIGNATURE ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8d0a271b471343e6eb29832183a2ec6b",
+        "text": "I saw this patient via an interactive audio and video telecommunications system.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "CP_CHRT_C_G4M3BA_De-identified.pdf"
+        }
+    }
+]
